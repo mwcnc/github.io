@@ -20,3 +20,5 @@ als Holzfäller, Heizer, Tankwart und Lagerarbeiter.
 Sein Lieblings-Zitat als Dirty Harry:
 
 >Make my Day!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Clint_Eastwood_Karikatur.jpg/170px-Clint_Eastwood_Karikatur.jpg"/>
