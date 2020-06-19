@@ -9,3 +9,10 @@ Familie in Oakland nieder.
 Eastwood, der als schüchtern und introvertiert galt, besuchte zehn verschiedene 
 Schulen und brach 1948 auch sein College-Studium ab. Er arbeitete unter anderem 
 als Holzfäller, Heizer, Tankwart und Lagerarbeiter.
+
+## Clint Eastwood wirkte z.B. als
+* Darsteller
+* Regisseur
+* Produzent
+* Komponist
+* Politiker
