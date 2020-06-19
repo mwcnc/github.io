@@ -16,3 +16,7 @@ als Holzfäller, Heizer, Tankwart und Lagerarbeiter.
 * Produzent
 * Komponist
 * Politiker
+
+Sein Lieblings-Zitat als Dirty Harry:
+
+>Make my Day!
